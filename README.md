@@ -71,7 +71,7 @@ const dhruvSingh = {
 
 ## 💼 Featured Projects
 
-### 🏥 [MediVerse](https://github.com/Singh4599/Mediverse)
+### 🏥 [MediVerse](https://nexhack.netlify.app)
 **Full-Stack Healthcare Platform | Smart India Hackathon Project**
 - Comprehensive healthcare platform connecting users with doctors during emergencies
 - Real-time hospital management dashboard with doctor availability metrics
@@ -100,19 +100,9 @@ const dhruvSingh = {
 
 ---
 
-## 💭 Quote
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Code is like humor. When you have to explain it, it's bad." — Cory House
+### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 
 **Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ if you find something interesting!**
 
