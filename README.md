@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Dhruv%20Singh&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=BCA%20Student%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=75&descSize=18&stroke=7f5af0&strokeWidth=2" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Dhruv+Singh+%F0%9F%91%8B;BCA+Student+%40+IITM+Delhi;Full-Stack+Dev+in+the+Making+%F0%9F%9A%80;Building+AI-Powered+Web+Apps+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
-
-# Hi there, I'm Dhruv Singh! 👋
 
 <div align="center">
 
@@ -13,6 +11,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/Singh4599?label=Stars&style=social)](https://github.com/Singh4599)
 
 </div>
+
+---
 
 ## 🚀 About Me
 
@@ -67,14 +67,25 @@ const dhruvSingh = {
 };
 ```
 
+---
 
-## 📈 Contribution Graph
+## 💼 Featured Projects
 
-<div align="center">
+### 🏥 [MediVerse](https://github.com/Singh4599/Mediverse)
+**Full-Stack Healthcare Platform | Smart India Hackathon Project**
+- Comprehensive healthcare platform connecting users with doctors during emergencies
+- Real-time hospital management dashboard with doctor availability metrics
+- Responsive UI focusing on accessibility, speed, and reliability
+- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singh4599&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+### 🌐 Dynamic Design Websites
+**Personal Projects | Frontend Development**
+- Collection of fully responsive, dynamic websites with modern design patterns
+- Focus on smooth animations, clean UI, and cross-device compatibility
+- Built using vanilla JavaScript with custom CSS and Bootstrap
+- Emphasis on user experience and clean code architecture
 
-</div>
+---
 
 ## 📫 Let's Connect!
 
@@ -109,3 +120,6 @@ const dhruvSingh = {
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
