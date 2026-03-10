@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Dhruv%20Singh&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=BCA%20Student%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=75&descSize=18&stroke=7f5af0&strokeWidth=2" width="100%"/>
+
+</div>
+
 # Hi there, I'm Dhruv Singh! 👋
 
 <div align="center">
@@ -59,7 +65,24 @@ const dhruvSingh = {
     achievements: ["SIH Participant", "Nexverse Hackathon"],
     funFact: "I turn caffeine into code ☕ → 💻"
 };
+```
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Singh4599&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Singh4599&theme=tokyonight&hide_border=true" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh4599&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -68,6 +91,18 @@ const dhruvSingh = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singh4599&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Singh4599&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
+
+</div>
+
+---
 
 ## 📫 Let's Connect!
 
@@ -102,3 +137,6 @@ const dhruvSingh = {
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
