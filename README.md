@@ -67,22 +67,6 @@ const dhruvSingh = {
 };
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Singh4599&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Singh4599&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh4599&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -91,18 +75,6 @@ const dhruvSingh = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singh4599&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Singh4599&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
-
-</div>
-
----
 
 ## 📫 Let's Connect!
 
@@ -137,6 +109,3 @@ const dhruvSingh = {
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
